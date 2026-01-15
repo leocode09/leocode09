@@ -1,52 +1,62 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+leocode09+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leocode09&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leocode09?style=for-the-badge&color=6C63FF" alt="Followers" />
-</div>
+<!-- Profile Card -->
+<a href="https://github.com/leocode09">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="100%" />
+</a>
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+<!-- Skills -->
+<p align="center"><b>Skills</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,vue,nodejs,git,docker,vscode,github&perline=10" />
+  </a>
+</p>
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, coding, and tech**
-- ⚡ Fun fact: **I love turning coffee into code!**
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&line_height=24" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6" height="120"/>
+</p>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leocode09&theme=github-dark&hide_border=true&area=true&height=200" width="100%" />
 
-<div align="center">
+</td>
+<td valign="top" width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Recent Activity -->
+<p align="center"><b>⚡ Recent Activity</b></p>
 
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<br/>
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocode09&theme=github-dark-blue&hide_border=true" height="140"/>
+</p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="170"/>
-</div>
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leocode09&style=flat-square&color=blue" alt="views"/>
+  <img src="https://img.shields.io/github/followers/leocode09?style=flat-square&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/leocode09?style=flat-square&color=blue" alt="stars"/>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square" alt="ask"/></a>
+</p>
 
 <br/>
 
