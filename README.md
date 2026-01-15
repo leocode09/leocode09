@@ -1,8 +1,3 @@
-<!-- Animated Title -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=leocode09;KWIZERA+Emmanuel+Leonidas" alt="Name" />
-</div>
-
 <!-- Profile Summary -->
 <div align="center">
   <a href="https://github.com/leocode09">
