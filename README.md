@@ -93,6 +93,3 @@
   &nbsp;
   <a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-161b22?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
 </div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
