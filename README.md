@@ -1,6 +1,6 @@
 <!-- Profile Summary -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&custom_title=leocode09%20(KWIZERA%20Emmanuel%20Leonidas)" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="100%"/>
 </div>
 
 <!-- Orgs -->
@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,vue,dart,flutter,cs&perline=6" /><br/>
   <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
 </p>
+
 
 </td><td valign="top" width="50%">
 
