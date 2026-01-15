@@ -57,13 +57,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leocode09&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=238636" width="95%"/>
-</div>
-
-<br/>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
