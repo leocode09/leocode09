@@ -41,14 +41,6 @@
 </tr>
 </table>
 
-<!-- Stats Row -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="180"/>
-</div>
-
-<br/>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
