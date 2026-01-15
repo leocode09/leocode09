@@ -58,55 +58,23 @@
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square" alt="ask"/></a>
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocode09&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leocode09&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<br/>
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
+    <img alt="github contribution grid snake animation" src="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  </picture>
+</p>
 
 <!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leocode09&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github contribution grid snake animation" src="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</picture>
-
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leocode09&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+</p>
 
 <!-- Connect -->
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leocode09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leocode09)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocode09)
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</div>
+<p align="center">
+  <a href="https://github.com/leocode09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/leocode09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
