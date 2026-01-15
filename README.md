@@ -1,45 +1,49 @@
-<!-- Profile Summary -->
+<!-- Profile Summary Card -->
 <div align="center">
   <a href="https://github.com/leocode09">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark&count_private=true" width="800"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="100%"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Skills & Activity Row -->
-<table align="center">
+<!-- Skills & Stats Layout -->
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛠️ Skills</h3>
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,dart,flutter,cs&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,dart,flutter,cs&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Recent Activity</h3>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<h3 align="center">🔥 Streak</h3>
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="100%"/>
 </p>
 
 </td>
 </tr>
 </table>
+
+<!-- Languages & More Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=10" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leocode09&theme=github_dark" height="150"/>
+</div>
+
+<br/>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -59,24 +63,18 @@
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leocode09&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/leocode09?style=for-the-badge&color=161b22&labelColor=161b22&label=FOLLOWERS" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/leocode09?style=for-the-badge&color=161b22&labelColor=161b22&label=STARS" alt="stars"/>
-  &nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/ASK%20ME-ANYTHING-58A6FF?style=for-the-badge&labelColor=161b22" alt="ask"/></a>
+  <img src="https://komarev.com/ghpvc/?username=leocode09&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/leocode09?style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/leocode09?style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Stars"/>
 </div>
 
 <br/>
 
-<!-- Connect -->
+<!-- Social Links -->
 <div align="center">
-  <a href="https://github.com/leocode09"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/leocode09"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-161b22?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
+  <a href="https://github.com/leocode09"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/leocode09"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
 </div>
