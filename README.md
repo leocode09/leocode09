@@ -1,102 +1,78 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+leocode09+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<!-- Compact Profile -->
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leocode09&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leocode09?style=for-the-badge&color=6C63FF" alt="Followers" />
-</div>
+### 👨‍💻 leocode09
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="100%"/>
 
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=leocode09&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/leocode09?style=flat-square)
+![Stars](https://img.shields.io/github/stars/leocode09?style=flat-square)
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+</td>
+<td valign="top" width="50%">
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, coding, and tech**
-- ⚡ Fun fact: **I love turning coffee into code!**
+### ⚡ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,vue,nodejs,express,mongodb,postgres,docker,git,github,vscode,linux&perline=7" />
+</p>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="100%"/>
 
-<div align="center">
+</td>
+<td valign="top" width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=github_dark&hide_border=true&hide_title=true" width="100%"/>
 
-</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+### 🔥 Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leocode09&theme=dark&hide_border=true" width="100%"/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+</td>
+<td valign="top" width="50%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="170"/>
-</div>
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in repositories
+2. 💪 Opened PR for new features
+3. 🔨 Pushed commits to main
+4. 📝 Updated documentation
+5. ⭐ Starred awesome repos
+<!--END_SECTION:activity-->
 
-<br/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocode09&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
+<!-- Trophies Row -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=leocode09&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=5&margin-h=5" width="100%"/>
+</p>
 
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leocode09&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leocode09&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-## 🐍 Contribution Graph
-
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github contribution grid snake animation" src="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github contribution grid snake animation" src="https://github.com/leocode09/leocode09/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%"/>
 </picture>
 
-<br/>
-
-<!-- Connect -->
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leocode09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leocode09)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocode09)
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</div>
+<!-- Badges Row -->
+<p align="center">
+<a href="https://github.com/leocode09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/leocode09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c?style=flat-square" alt="Ask Me"/>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/React-Dev-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
+</p>
