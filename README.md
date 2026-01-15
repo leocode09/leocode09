@@ -37,11 +37,6 @@
   </picture>
 </div>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leocode09&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" />
-</p>
-
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leocode09&style=for-the-badge&color=58A6FF"/>
@@ -52,6 +47,7 @@
 <!-- Social -->
 <p align="center">
   <a href="https://github.com/leocode09"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/leocode09"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="https://twitter.com/leocode09"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://linkedin.com/in/kwizera-emmanuel-ceo"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://x.com/leo_kwizera"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/leo.kwizera"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 </p>
