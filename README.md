@@ -15,12 +15,12 @@
 <h3 align="center">🛠️ Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,vue,nodejs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,dart,flutter,cs&perline=6" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,tailwind,nextjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
   </a>
 </p>
 
