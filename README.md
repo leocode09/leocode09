@@ -10,25 +10,11 @@
 </p>
 
 <!-- Main Content -->
-<table><tr><td valign="top" width="50%">
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,dart,flutter,cs&perline=6" /><br/>
   <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
 </p>
-
-
-</td><td valign="top" width="50%">
-
-### 🔥 Streak Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
-
-</td></tr></table>
 
 <!-- Snake -->
 <div align="center">
