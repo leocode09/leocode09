@@ -23,7 +23,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+  <img src="https://github-readme-streak-stats-nine-tawny.vercel.app/?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
 </p>
 
 </td></tr></table>
