@@ -1,3 +1,8 @@
+<!-- Profile Summary -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="100%"/>
+</div>
+
 <!-- Orgs -->
 <p align="center">
   <a href="https://github.com/Dime-Inc-Ltd"><img src="https://img.shields.io/badge/Dime%20Inc%20Ltd-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -13,6 +18,15 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,powershell,git,vscode&perline=6" />
 </p>
 
+
+</td><td valign="top" width="50%">
+
+### 🔥 Streak Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
+</p>
 
 </td></tr></table>
 
