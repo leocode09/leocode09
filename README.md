@@ -23,9 +23,12 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leocode09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocode09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://img.shields.io/github/commit-activity/m/leocode09/leocode09?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Commits"/>
+  <img src="https://img.shields.io/github/last-commit/leocode09/leocode09?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leocode09&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leocode09&theme=github_dark&utcOffset=2"/>
 </p>
 
 </td></tr></table>
