@@ -16,13 +16,6 @@
 
 </td><td valign="top" width="50%">
 
-### 🔥 Streak Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=leocode09&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
-
 </td></tr></table>
 
 <!-- Snake -->
