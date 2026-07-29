@@ -1,7 +1,7 @@
 <!-- Profile Summary -->
 <div align="center">
   <a href="https://github.com/leocode09">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark" width="800"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocode09&theme=github_dark&count_private=true" width="800"/>
   </a>
 </div>
 
